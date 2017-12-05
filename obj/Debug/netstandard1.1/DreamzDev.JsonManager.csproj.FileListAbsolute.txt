@@ -1,0 +1,3 @@
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/obj/Debug/netstandard1.1/DreamzDev.JsonManager.csproj.CoreCompileInputs.cache
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/obj/Debug/netstandard1.1/DreamzDev.JsonManager.AssemblyInfoInputs.cache
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/obj/Debug/netstandard1.1/DreamzDev.JsonManager.AssemblyInfo.cs

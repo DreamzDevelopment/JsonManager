@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<package >
+  <metadata minClientVersion="2.8.3">
+    <id>DreamzDev.JsonManager</id>
+    <version>1.0.0</version>
+    <authors>Rejwanul Islam</authors>
+    <owners>Rejwanul Islam</owners>
+    <licenseUrl>https://github.com/DreamzDevelopment/JsonManager</licenseUrl>
+    <projectUrl>https://github.com/DreamzDevelopment/JsonManager</projectUrl>
+    <iconUrl>https://github.com/DreamzDevelopment/Resources/Icons/json.manager.PNG?raw=true</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Json file manager, includes CRUD of json file</description>
+    <releaseNotes>Initial relese.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Json Manager Aspnet Core Asp</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="10.0.3" />
+      <!--<group targetFramework="net">
+			</group>
+			<group targetFramework="win">
+			</group>
+			<group targetFramework="wp">
+			</group>
+			<group targetFramework="wpa">
+			</group>
+			<group targetFramework="MonoAndroid">
+			</group>
+			<group targetFramework="Xamarin.iOS10">
+			</group>
+			<group targetFramework="Xamarin.Mac20">
+			</group>
+			<group targetFramework="portable-net45+win+wpa81+wp80">
+			</group>
+			<group targetFramework="uap">
+			</group>
+			<group targetFramework="dotnet">
+			</group>-->
+    </dependencies>
+  </metadata>
+  <files>
+    <!--Core-->
+    <file src="JsonManager\Helpers\IJsonResult.cs"
+          target="NugetPackages\JsonManager\Helpers\IJsonResult.cs" />
+    <file src="JsonManager\Helpers\MyJsonResult.cs"
+          target="NugetPackages\JsonManager\Helpers\MyJsonResult.cs" />
+    <file src="JsonManager\Helpers\ResultObject.cs"
+          target="NugetPackages\JsonManager\Helpers\ResultObject.cs" />
+
+    <file src="JsonManager\IJsonManagerRepository.cs"
+          target="NugetPackages\JsonManager\IJsonManagerRepository.cs" />
+    <file src="JsonManager\JsonManagerRepository.cs"
+          target="NugetPackages\JsonManager\JsonManagerRepository.cs" />
+    <file src="JsonManager\JsonHelper.cs"
+          target="NugetPackages\JsonManager\JsonHelper.cs" />
+
+    <file src="readme.txt"
+          target="NugetPackages\JsonManager\readme.txt" />
+  </files>
+</package>

@@ -1,0 +1,8 @@
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netstandard1.6/DreamzDev.JsonManager.deps.json
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netstandard1.6/DreamzDev.JsonManager.dll
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netstandard1.6/DreamzDev.JsonManager.pdb
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/obj/Debug/netstandard1.6/DreamzDev.JsonManager.csproj.CoreCompileInputs.cache
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/obj/Debug/netstandard1.6/DreamzDev.JsonManager.AssemblyInfoInputs.cache
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/obj/Debug/netstandard1.6/DreamzDev.JsonManager.AssemblyInfo.cs
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/obj/Debug/netstandard1.6/DreamzDev.JsonManager.dll
+/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/obj/Debug/netstandard1.6/DreamzDev.JsonManager.pdb

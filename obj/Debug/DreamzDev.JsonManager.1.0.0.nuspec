@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DreamzDev.JsonManager</id>
+    <version>1.0.0</version>
+    <authors>DreamzDev.JsonManager</authors>
+    <owners>DreamzDev.JsonManager</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp1.0">
+        <dependency id="Microsoft.NETCore.App" version="1.0.5" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETCoreApp1.1">
+        <dependency id="Microsoft.NETCore.App" version="1.1.2" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard1.3">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard1.4">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard1.5">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard1.6">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netcoreapp1.0/DreamzDev.JsonManager.dll" target="lib/netcoreapp1.0/DreamzDev.JsonManager.dll" />
+    <file src="/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netcoreapp1.1/DreamzDev.JsonManager.dll" target="lib/netcoreapp1.1/DreamzDev.JsonManager.dll" />
+    <file src="/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netcoreapp2.0/DreamzDev.JsonManager.dll" target="lib/netcoreapp2.0/DreamzDev.JsonManager.dll" />
+    <file src="/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netstandard1.3/DreamzDev.JsonManager.dll" target="lib/netstandard1.3/DreamzDev.JsonManager.dll" />
+    <file src="/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netstandard1.4/DreamzDev.JsonManager.dll" target="lib/netstandard1.4/DreamzDev.JsonManager.dll" />
+    <file src="/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netstandard1.5/DreamzDev.JsonManager.dll" target="lib/netstandard1.5/DreamzDev.JsonManager.dll" />
+    <file src="/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netstandard1.6/DreamzDev.JsonManager.dll" target="lib/netstandard1.6/DreamzDev.JsonManager.dll" />
+    <file src="/Users/thinkosx/Documents/Git Repositories/DreamzDev.JsonManager/bin/Debug/netstandard2.0/DreamzDev.JsonManager.dll" target="lib/netstandard2.0/DreamzDev.JsonManager.dll" />
+  </files>
+</package>
