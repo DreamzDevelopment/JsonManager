@@ -16,26 +16,6 @@
     <tags>Json Manager Aspnet Core Asp</tags>
     <dependencies>
       <dependency id="Newtonsoft.Json" version="10.0.3" />
-      <!--<group targetFramework="net">
-			</group>
-			<group targetFramework="win">
-			</group>
-			<group targetFramework="wp">
-			</group>
-			<group targetFramework="wpa">
-			</group>
-			<group targetFramework="MonoAndroid">
-			</group>
-			<group targetFramework="Xamarin.iOS10">
-			</group>
-			<group targetFramework="Xamarin.Mac20">
-			</group>
-			<group targetFramework="portable-net45+win+wpa81+wp80">
-			</group>
-			<group targetFramework="uap">
-			</group>
-			<group targetFramework="dotnet">
-			</group>-->
     </dependencies>
   </metadata>
   <files>
